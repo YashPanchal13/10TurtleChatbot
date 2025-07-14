@@ -1,0 +1,42 @@
+fastapi
+uvicorn
+langchain==0.1.16
+langchain-openai==0.1.6
+langchain-community==0.0.26
+openai>=1.14.2
+pydantic>=1.10,<2.0
+beautifulsoup4
+numpy
+tqdm
+faiss-cpu
+python-dotenv
+
+
+
+
+# Ansulbhai
+# fastapi
+
+# uvicorn
+
+# langchain==0.1.16
+
+# langchain-openai==0.1.6
+
+# langchain-community>=0.0.32,<0.1
+
+# openai>=1.14.2
+
+# pydantic>=1.10,<2.0
+
+# beautifulsoup4
+
+# numpy
+
+# tqdm
+
+# faiss-cpu
+
+# python-dotenv
+
+ 
